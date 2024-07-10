@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-fluid {
+  margin: auto;
+  max-width: 100%;
+  background-color: #4f46e5;
+  padding: 20px;
+
+  /* height: 500px; */
+}
+
+li,
+a {
+  display: inline;
+  text-decoration: none;
+  /* margin-left: 8px; */
+  padding: 12px;
+  font-weight: 800;
+}
+
+/* span {
+  margin-left: 50px;
+  color: white;
+} */
